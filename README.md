@@ -2,7 +2,7 @@
 
 Where and why are TGV trains late? A Tableau dashboard built on nine years of SNCF punctuality data.
 
-Interactive dashboard: https://public.tableau.com/app/profile/anugraha.sn/viz/NCFTGVPunctuality20182026/SNCFTGVPunctuality?publish=yes
+Interactive dashboard: https://public.tableau.com/app/profile/anugraha.sn/viz/SNCFTGVTrains/SNCFTGVAnalysis?publish=yes
 
 ![Dashboard](SNCF%20TGV%20Punctuality.png)
 
